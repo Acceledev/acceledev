@@ -1,0 +1,46 @@
+h3 {
+    font-style: italic;
+    margin-bottom: 0;
+}
+
+.banner {
+    background-image: url("../images/banners/Home_Photo_sm.png");
+}
+
+.mobile-title {
+    padding: 10px 0 20px 0;
+    text-align: center;
+}
+
+.offer {
+    margin-top: 32px;
+    margin-bottom: 64px;
+    text-align: center;
+}
+
+.unique {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.icon {
+    height: auto;
+    width: 100%;
+}
+
+.unique-text {
+    display: inline-block;
+    text-align: left;
+    width: 90%;
+}
+
+#map, #every-step, #randd {
+    margin: 32px auto 24px auto;
+    height: auto;
+    width: 90%;
+}
+
+#map {
+    margin: 32px 0 24px -5%;
+    width: 120%;
+}
